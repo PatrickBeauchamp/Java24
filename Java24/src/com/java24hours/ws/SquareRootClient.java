@@ -15,10 +15,3 @@ public class SquareRootClient{
         System.out.println(srs.getSquareRoot(100d));
     }
 }
-
-1-88175455858
-anthem mediblue plus
-112019
-0
-aep
-jv039588
